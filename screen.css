@@ -10,10 +10,7 @@ body {
     width: 500px;
 }
 
-#company {
-    background: #DEB841
-}
-
 h1 {
     background: #DEB841;
+    padding: 20px;
 }
