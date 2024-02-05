@@ -1,4 +1,15 @@
 /* Add screen styles below */
 body {
-    
+    background: #37323E; 
+}
+
+div {
+    background: #D9D9D9;
+    color: #37323E;
+    margin: 0 auto;
+    width: 500px;
+}
+
+h1 {
+    background: #DEB841;
 }
